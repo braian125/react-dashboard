@@ -1,0 +1,11 @@
+header {
+    .nav-button {
+        cursor: pointer;
+    }
+
+    .dropdown-menu.show {
+        left: unset;
+        right: 0px;
+        top: 3rem;
+    }
+}
